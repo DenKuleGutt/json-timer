@@ -42,14 +42,14 @@
       { "name": "NORSK (TIL KL. 13:30)", "time": "13:00" }
     ],
     "lørdag": [
-      { "name": "Lørdagshendelse 1", "time": "12:05" },
-      { "name": "Lørdagshendelse 2", "time": "12:15" },
-      { "name": "Lørdagshendelse 3", "time": "13:20" }
+      { "name": "Det er fri 1", "time": "12:05" },
+      { "name": "Seriøst, ikke vær her 2", "time": "12:15" },
+      { "name": "Du må da ha noe mer fornuftig å gjøre enn å sitte her og se på en klokke 3", "time": "13:20" }
     ],
     "søndag": [
-      { "name": "Søndagshendelse 1", "time": "12:00" },
-      { "name": "Søndagshendelse 2", "time": "12:10" },
-      { "name": "Søndagshendelse 3", "time": "12:20" }
+      { "name": "Det er søndag, det er fri", "time": "12:00" },
+      { "name": "Det er ikke skole, hvorfor er du på en skole timer?", "time": "12:10" },
+      { "name": "Nahhh nå er det på tide å gjøre noe mer fornuftig, din suppegjøk", "time": "12:20" }
     ]
   },
   "odd-week": {
